@@ -1,0 +1,14 @@
+.container {
+    margin: 5px;
+
+    & .row {
+        display: flex;
+        justify-content: space-between;
+        margin: 2px 10px;
+        
+        & .row__btn, & .row__input {
+            display: flex; 
+            justify-content: space-between; 
+        }
+    }
+}

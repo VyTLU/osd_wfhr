@@ -4,7 +4,7 @@ const Title = ({
     title = ''
 }) => {
   return (
-    <div>Title</div>
+    <div>{title}</div>
   )
 }
 

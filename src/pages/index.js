@@ -1,3 +1,3 @@
-import Staff from "./Staff";
+import Staff from "./staff/Staff";
 
 export { Staff }
